@@ -1,0 +1,29 @@
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.FindEmployeeUI.resources
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.MainMenuUI.resources
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.DesignationUI.resources
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.EmployeeInformationUI.resources
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.Properties.Resources.resources
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.exe
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.pdb
+G:\C#\Training Program in BASIS\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+G:\C#\Training Program in BASIS\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.exe
+G:\C#\Training Program in BASIS\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.pdb
+G:\C#\Training Program in BASIS\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+G:\C#\Training Program in BASIS\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+G:\C#\Training Program in BASIS\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#\Training Program in BASIS\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.FindEmployeeUI.resources
+G:\C#\Training Program in BASIS\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.MainMenuUI.resources
+G:\C#\Training Program in BASIS\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.DesignationUI.resources
+G:\C#\Training Program in BASIS\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.EmployeeInformationUI.resources
+G:\C#\Training Program in BASIS\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.Properties.Resources.resources
+G:\C#\Training Program in BASIS\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C#\Training Program in BASIS\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hasnat\Desktop\For github\EmployeeInformation\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+C:\Users\Hasnat\Desktop\For github\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.exe
+C:\Users\Hasnat\Desktop\For github\EmployeeInformation\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.pdb

@@ -1,0 +1,33 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:MainMenuUI.Designer.cs" caret="502" fromTop="14" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:FindEmployeeUI.Designer.cs" caret="8873" fromTop="33" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:Properties/f:Resources.Designer.cs" caret="894" fromTop="21" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:DAL/d:DAO/f:Employee.cs" caret="135" fromTop="5" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:DAL/d:DAO/f:Designation.cs" caret="183" fromTop="6" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/f:app.config" caret="354" fromTop="6" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:DAL/d:Gateway/f:DBGateway.cs" caret="243" fromTop="9" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:MainMenuUI.cs" caret="624" fromTop="21" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:EmployeeInformationUI.Designer.cs" caret="6065" fromTop="11" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:EmployeeInformationUI.cs" caret="4360" fromTop="13" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:FindEmployeeUI.cs" caret="2204" fromTop="17" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:BLL/f:EmployeeManager.cs" caret="589" fromTop="18" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:DesignationUI.cs" caret="998" fromTop="27" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:DAL/d:Gateway/f:DesignationGateway.cs" caret="1654" fromTop="20" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:BLL/f:DesignationManager.cs" caret="193" fromTop="7" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:DAL/d:Gateway/f:EmployeeGateway.cs" caret="6996" fromTop="25" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:DAL/d:Gateway/f:DesignationGateway.cs" caret="3974" fromTop="30" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:DesignationUI.cs" caret="1243" fromTop="26" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:FindEmployeeUI.cs" caret="3405" fromTop="24" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:FindEmployeeUI.cs" caret="2602" fromTop="6" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:FindEmployeeUI.cs" caret="3153" fromTop="20" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:MainMenuUI.cs" caret="6019" fromTop="20" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:FindEmployeeUI.cs" caret="3988" fromTop="17" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/f:app.config" caret="338" fromTop="5" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:EmployeeInformationUI.cs" caret="7735" fromTop="15" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:EmployeeInformationUI.cs" caret="4360" fromTop="13" />
+    <File id="E9F87AA5-7DB3-4254-A287-CD8199FDEB2D/d:UI/f:EmployeeInformationUI.Designer.cs" caret="6065" fromTop="11" />
+  </RecentEdits>
+</RecentFiles>
